@@ -1,0 +1,161 @@
+TBLASTN 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Data/bat_db.fa
+           474 sequences; 12,161,484,293 total letters
+
+
+
+Query= YP_009944365.1 ORF1a polyprotein [SARS coronavirus Tor2]
+
+Length=4382
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold_m19_p_2_HLmyoMyo6 scaffold_m19_p_2_HLmyoMyo6_HLmyoMyo6       64.3    7e-07
+scaffold_m19_p_3_HLphyDis3 scaffold_m19_p_3_HLphyDis3_HLphyDis3       61.2    7e-06
+scaffold_m20_p_2_HLpipKuh2 scaffold_m20_p_2_HLpipKuh2_HLpipKuh2       57.4    9e-05
+
+
+>scaffold_m19_p_2_HLmyoMyo6 scaffold_m19_p_2_HLmyoMyo6_HLmyoMyo6
+Length=217756413
+
+ Score = 64.3 bits (155),  Expect = 7e-07, Method: Compositional matrix adjust.
+ Identities = 40/111 (36%), Positives = 57/111 (51%), Gaps = 12/111 (11%)
+ Frame = -1
+
+Query  1034       VIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KKC  1092
+                  ++VNAAN  L+HGGG+A AL KA    +Q+ESD YI  +G +  GG+ +     L  K  
+Sbjct  158986914  IVVNAANEELRHGGGLAQALVKAGGQEIQEESDWYISTHGKIQTGGTAVTGPGKLPCKHI  158986735
+
+Query  1093       LHVVGPNLNAGED-----------IQLLKAAYENFNSQDILLAPLLSAGIF  1132
+                  +H VGP   A E            + +L      F + + +  P LS+GIF
+Sbjct  158986734  IHAVGPRWVAWERGRCQADLENAMVNILNCVTHGFPNLETVAIPALSSGIF  158986582
+
+
+>scaffold_m19_p_3_HLphyDis3 scaffold_m19_p_3_HLphyDis3_HLphyDis3
+Length=214174399
+
+ Score = 61.2 bits (147),  Expect = 7e-06, Method: Compositional matrix adjust.
+ Identities = 44/145 (30%), Positives = 72/145 (50%), Gaps = 12/145 (8%)
+ Frame = -3
+
+Query  1034       VIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KKC  1092
+                  V+VNAAN +L+H GG+A AL+KA    +Q + D  +K  G + VG + +     L  ++ 
+Sbjct  112439849  VVVNAANENLRHSGGLAAALSKAAGPQLQADCDQIVKEKGTIPVGSAIVSRAGKLPYRQV  112439670
+
+Query  1093       LHVVGPNLNA----GEDIQLLKAAY------ENFNSQDILLAPLLSAGIFGAKPLQSLQV  1142
+                  +H +GP   +    G  +QL KA        E    Q I + P +S+G+FG    Q ++ 
+Sbjct  112439669  IHAIGPRWKSDDAQGCVLQLKKAVRQSLQLAEKLQYQSIAI-PAISSGVFGFPISQCVEA  112439493
+
+Query  1143       CVQTVRTQVYIAVNDKALYEQVVMD  1167
+                   V  V+       + + L E  ++D
+Sbjct  112439492  IVLAVKETFQYNWDGRTLKEIYLVD  112439418
+
+
+>scaffold_m20_p_2_HLpipKuh2 scaffold_m20_p_2_HLpipKuh2_HLpipKuh2
+Length=189234171
+
+ Score = 57.4 bits (137),  Expect = 9e-05, Method: Compositional matrix adjust.
+ Identities = 41/127 (32%), Positives = 64/127 (50%), Gaps = 12/127 (9%)
+ Frame = +3
+
+Query  1034      VIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KKC  1092
+                 V+VNAAN  L+HGGG+A AL KA    +Q+ESD +I   G +  G   +     L  K  
+Sbjct  51463872  VVVNAANEELRHGGGLAQALVKAGGQQIQEESDMFISKYGKIPTGEVAITGPGKLPCKFI  51464051
+
+Query  1093      LHVVGPN------LNAGEDIQ-----LLKAAYENFNSQDILLAPLLSAGIFGAKPLQSLQ  1141
+                 +H VGP       +    D+Q     +L     +++S + +  P LS+GIF        +
+Sbjct  51464052  IHAVGPRWEERDAVRCKADLQKAIRSILNCFTSDYSSPETVAIPALSSGIFRFPLDLCTR  51464231
+
+Query  1142      VCVQTVR  1148
+                 + V+T++
+Sbjct  51464232  IIVETIK  51464252
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.135    0.408    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 17098719022698
+
+
+Query= YP_009825061.1 nucleocapsid protein [SARS coronavirus Tor2]
+
+Length=422
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.131    0.394    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1126945235798
+
+
+Query= YP_009825055.1 membrane glycoprotein M [SARS coronavirus Tor2]
+
+Length=221
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.140    0.440    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 344569908805
+
+
+Query= YP_009825051.1 spike glycoprotein [SARS coronavirus Tor2]
+
+Length=1255
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.136    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4463184366201
+
+
+  Database: Data/bat_db.fa
+    Posted date:  Dec 4, 2020  9:23 PM
+  Number of letters in database: 12,161,484,293
+  Number of sequences in database:  474
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40

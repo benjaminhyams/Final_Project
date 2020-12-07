@@ -1,0 +1,415 @@
+TBLASTN 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Data/bat_db.fa
+           474 sequences; 12,161,484,293 total letters
+
+
+
+Query= NP_066243.1 nucleoprotein [Zaire ebolavirus]
+
+Length=739
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold_m19_p_12_HLmyoMyo6 scaffold_m19_p_12_HLmyoMyo6_HLmyoMyo6     172     2e-41
+scaffold_m19_p_1_HLmyoMyo6 scaffold_m19_p_1_HLmyoMyo6_HLmyoMyo6       155     6e-36
+scaffold_m20_p_36_HLpipKuh2 scaffold_m20_p_36_HLpipKuh2_HLpipKuh2     57.0    3e-08
+
+
+>scaffold_m19_p_12_HLmyoMyo6 scaffold_m19_p_12_HLmyoMyo6_HLmyoMyo6
+Length=74216526
+
+ Score = 172 bits (435),  Expect = 2e-41, Method: Compositional matrix adjust.
+ Identities = 93/264 (35%), Positives = 146/264 (55%), Gaps = 1/264 (0%)
+ Frame = -2
+
+Query  138       PEEETTEANAGQFLSFASLFLPKLVVGEKACLEKVQRQIQVHAEQGLIQYPTAWQSVGHM  197
+                 P   +        +   SLF P LV G+ AC +KV++  Q   +QG+      W S   M
+Sbjct  69334085  PCPRSPRGTCCSLVVHLSLFFPTLVTGKGACSQKVEKAFQQLGDQGIKVIARNWMSPTVM  69333906
+
+Query  198       MVIFRLMRTNFLIKFLLIHQGMHMVAGHDANDAVISNSVAQARFSGLLIVKTVLDHILQK  257
+                  +    +   F++ F LI+  ++  AG DA DA+I  +V Q+RF GLL+VK VL +I+  
+Sbjct  69333905  KIACHTLHHCFIMGFCLIYHALYHRAGTDAVDAIIVGAVEQSRFLGLLMVKNVLRYIITN  69333726
+
+Query  258       TERGVRLHPLARTAKVKNEVNSFKAALSSLAKHGEYAPFARLLNLSGVNNLEHGLFPQLS  317
+                     ++++PLAR  + + E+  F++ +  + KHG Y P AR+L L  + ++EHG FP LS
+Sbjct  69333725  GGGEIKIYPLARDKRTRGEMTRFESCVRDIQKHGIYVPSARVLGLPRMTHIEHGQFPHLS  69333546
+
+Query  318       AIALGVATAHGSTLAGVNVGEQYQQLREAATEAEKQLQQYAESREL-DHLGLDDQEKKIL  376
+                 A+ LGV++ + S LAGVN+  +YQ L+ AA +AE +LQ     RE+     L  +E ++L
+Sbjct  69333545  ALVLGVSSVYQSMLAGVNIDTRYQALKAAAHQAELELQSIHNRREIVQDKDLTTEESEVL  69333366
+
+Query  377       MNFHQKKNEISFQQTNAMVTLRKE  400
+                   F++    I    + A V L K+
+Sbjct  69333365  FAFNKGNESIRTTGSKAQVELLKK  69333294
+
+
+>scaffold_m19_p_1_HLmyoMyo6 scaffold_m19_p_1_HLmyoMyo6_HLmyoMyo6
+Length=223369599
+
+ Score = 101 bits (252),  Expect(2) = 6e-38, Method: Compositional matrix adjust.
+ Identities = 53/107 (50%), Positives = 72/107 (67%), Gaps = 0/107 (0%)
+ Frame = -1
+
+Query  257       KTERGVRLHPLARTAKVKNEVNSFKAALSSLAKHGEYAPFARLLNLSGVNNLEHGLFPQL  316
+                 K  R  ++HPLAR  + + E++SF   + +L KHG  APFAR+L L GV  +EHG F +L
+Sbjct  60135513  KQGRRHQIHPLARDKRTRGELDSFAYCVRNLQKHGINAPFARVLGLPGVTQMEHGPFHRL  60135334
+
+Query  317       SAIALGVATAHGSTLAGVNVGEQYQQLREAATEAEKQLQQYAESREL  363
+                 SAIALGV++ + STLAGVN+  Q+Q L+EAA   E  LQ    +R+L
+Sbjct  60135333  SAIALGVSSVYQSTLAGVNIDPQHQSLKEAAHPVEPGLQSIRNARKL  60135193
+
+
+ Score = 84.3 bits (207),  Expect(2) = 6e-38, Method: Compositional matrix adjust.
+ Identities = 53/189 (28%), Positives = 99/189 (52%), Gaps = 2/189 (1%)
+ Frame = -2
+
+Query  76        MLCLHHAYQGDYKLFLESGAVKYLEGHGFRFEVKKRD-GVKRLEELLPAVSSGKNIKRTL  134
+                 ++C  H+ +GD  L ++S   +YL   G+ F     D   + L  ++ A+   + + + +
+Sbjct  60136055  LICYCHS-RGDLNLMVKSPFGQYLIADGYEFSTMPPDLHTQPLHRIM*AIGYSEALVQII  60135879
+
+Query  135       AAMPEEETTEANAGQFLSFASLFLPKLVVGEKACLEKVQRQIQVHAEQGLIQYPTAWQSV  194
+                   +P        A  F+++ SLFLPKLV  E AC +KV++  +    +G+       ++ 
+Sbjct  60135878  RDLPAPNPVGERAASFMAYVSLFLPKLVTEESACSQKVEKAYRQLENRGINVISRERKAP  60135699
+
+Query  195       GHMMVIFRLMRTNFLIKFLLIHQGMHMVAGHDANDAVISNSVAQARFSGLLIVKTVLDHI  254
+                   M + +R +    +++F L+++ +H  AG  A   +I+ +V Q+RFSGLL+VK VL  I
+Sbjct  60135698  VVMRMAYRTLGHCSIMRFSLVYRELHQRAGTGAVKTIIAEAVEQSRFSGLLMVKNVLT*I  60135519
+
+Query  255       LQKTERGVR  263
+                 +   E  ++
+Sbjct  60135518  ITNKEGDIK  60135492
+
+
+ Score = 155 bits (391),  Expect = 6e-36, Method: Compositional matrix adjust.
+ Identities = 124/415 (30%), Positives = 199/415 (48%), Gaps = 25/415 (6%)
+ Frame = -2
+
+Query  22         HKILTAGL----SVQQGIVRQRVIPVYQVNNLEEICQLIIQAFEAGVDFQESADSFLLML  77
+                  H IL A L    SVQ      + I V     LE   + II+  EAG+   ++ +  + ML
+Sbjct  214410215  HSILNAALGPMDSVQFIPPHTKSIKVLDGKGLERKVRQIIECCEAGMSVDDAGEHLVAML  214410036
+
+Query  78         CLHHAYQGDYKLFLESGAVKYLEGHGFRFEVKKRDGVKRLEELLPAVSSGKNIKRTL---  134
+                    ++ Y+GD   F +      +         ++     R+     A  +  N++  +   
+Sbjct  214410035  LCYYHYRGDLFGFDDEEPFWPI------LSCRRV*TF*RITGTTRAPLTQVNVRHWMHGG  214409874
+
+Query  135        AAMPEEETTEA-----NAGQFLSFASLFLPKLVVGEKACLEKVQRQIQVHAEQGLIQYPT  189
+                    M ++  T +     +A  F+++ SLFLPKLV GE AC  KV++  Q    QG+     
+Sbjct  214409873  LCMSDQGFTTSKPLGKHAAFFMAYLSLFLPKLVTGEGACAPKVEKAFQQLETQGINIISR  214409694
+
+Query  190        AWQSVGHMMVIFRLMRTNFLIKFLLIHQGMHMVAGHDANDAVISNSVAQARFSGLLIVKT  249
+                  +  S   M + +R +   F+I+F L++  +   +G+               F   L+ K 
+Sbjct  214409693  SRISPMVMRIAYRTLGHCFIIRFSLVYHVLPSKSGY*CGRHGHGWCCRAILFFRPLMAKN  214409514
+
+Query  250        VLDHILQKTERGVRLHPLARTAKVKNEVNSFKAALSSLAKHGEYAPFARLLNLSGVNNLE  309
+                  VL +I+ K    ++ HP AR  + K E+  F++ + ++  HG YAPFAR+L L GV  +E
+Sbjct  214409513  VLTYIITKEGGAIKRHPPARDGQTKEEMARFESCVRNIQNHGIYAPFARVLGLPGVAQIE  214409334
+
+Query  310        HGLFPQLSAIALGVATAHGSTLAGVNVGEQYQQLREAATEAEKQLQQYAESRE-LDHLGL  368
+                  HG FP+L AIALGV+  H ST AGVN   +YQ L+EAA +AE + Q   + RE +    L
+Sbjct  214409333  HGPFPRLPAIALGVSAVHQSTPAGVNTDTRYQALKEAAHQAELE*QGILKRREIIQDKDL  214409154
+
+Query  369        DDQEKKILMNFHQKKNEISFQQTNAMVTLRKERLAKLTEAITAASL----PKTSG  419
+                    +E+++++ F ++    +  Q       R E L  + +   AA L    P T+G
+Sbjct  214409153  SAEERELIITFKKRSERTNQTQRQREAKARSELLKDIMD--RAAKLSPQNPTTAG  214408995
+
+
+>scaffold_m20_p_36_HLpipKuh2 scaffold_m20_p_36_HLpipKuh2_HLpipKuh2
+Length=5825443
+
+ Score = 57.0 bits (136),  Expect(3) = 3e-08, Method: Compositional matrix adjust.
+ Identities = 30/73 (41%), Positives = 45/73 (62%), Gaps = 5/73 (7%)
+ Frame = -1
+
+Query  260      RG-VRLHPLARTAKVKNEVNSFKAALSSLAKHGEYAPFARLLNLSGVNNLEHGLFPQLSA  318
+                RG +++HPLA+  + + E+  F+  + +  KHG Y P AR+L LSG    E    P LSA
+Sbjct  2713909  RGRIKIHPLAQDKRTREEMTHFEYCIRNTQKHGSYMPSARVLGLSGATQNE----PSLSA  2713742
+
+Query  319      IALGVATAHGSTL  331
+                IALGV++ + S +
+Sbjct  2713741  IALGVSSVYQSAV  2713703
+
+
+ Score = 24.6 bits (52),  Expect(3) = 3e-08, Method: Compositional matrix adjust.
+ Identities = 14/32 (44%), Positives = 19/32 (59%), Gaps = 5/32 (16%)
+ Frame = -3
+
+Query  329      STLAGVNVGEQYQQLREAATEAEKQLQQYAES  360
+                S LAGVN+  +YQ L  AA +      Q+AE+
+Sbjct  2713706  SALAGVNIDTRYQALTAAAHQV-----QWAEA  2713626
+
+
+ Score = 23.1 bits (48),  Expect(3) = 3e-08, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 12/15 (80%), Gaps = 0/15 (0%)
+ Frame = -3
+
+Query  231      VISNSVAQARFSGLL  245
+                +I  +V Q+RFSGLL
+Sbjct  2714027  IIVGAVEQSRFSGLL  2713983
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.131    0.376    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2387662871233
+
+
+Query= NP_066251.1 RNA-dependent RNA polymerase [Zaire ebolavirus]
+
+Length=2212
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold_m19_p_1_HLmyoMyo6 scaffold_m19_p_1_HLmyoMyo6_HLmyoMyo6       45.8    4e-09
+
+
+>scaffold_m19_p_1_HLmyoMyo6 scaffold_m19_p_1_HLmyoMyo6_HLmyoMyo6
+Length=223369599
+
+ Score = 45.8 bits (107),  Expect(2) = 4e-09, Method: Compositional matrix adjust.
+ Identities = 56/201 (28%), Positives = 79/201 (39%), Gaps = 20/201 (10%)
+ Frame = +3
+
+Query  553       KEKELNV-GRTFGKLPYPTRNVQTLCEALLADGLAKAFPSNMMVVTEREQKESLLHQASW  611
+                 KEKEL V GR F K     R  Q L E  L   +      + M  +  +           
+Sbjct  71942310  KEKELEVKGRYFSKQSCSIRLYQVLAELNLKKYIMPLLHMHSMTTSATQ----------L  71942459
+
+Query  612       HHTSDDFGEHATVRGSSFVT-DLEKYNLAFRYEFTAPFIEYCNRCYGVKNVFNWMHYTIP  670
+                  H  D      T R    +  D E +  AFR E   PF E  +R + +   F  +   +P
+Sbjct  71942460  SHIFDKISTQITRREVFVINLDFESWCNAFRPELQQPFCEELDRMF-LSGCFYQVGSWLP  71942636
+
+Query  671       QCYMHV-SDYYNPPHNLTLENRDNPP--EGPSSYRGHMGGIEGLQQKLWTSISCAQISLV  727
+                      +  D +NPP     +++D  P  +G +  +G +   EG+ QKL T I+     L 
+Sbjct  71942637  ALTTFIMQDRFNPPA----QDQDGFPIEDGEACLQGSLTMGEGMHQKL*TIITACLELLS  71942804
+
+Query  728       EIKTGFKLRSAVMGDNQCITV  748
+                   + G K      GDNQ I V
+Sbjct  71942805  LEELGLKGDILGQGDNQTIIV  71942867
+
+
+ Score = 44.7 bits (104),  Expect(2) = 4e-09, Method: Compositional matrix adjust.
+ Identities = 81/360 (23%), Positives = 149/360 (41%), Gaps = 41/360 (11%)
+ Frame = +2
+
+Query  788       KPDETFVHSGFIYFGKKQYLNGVQLPQSLKTATRMAPLSDAIFDDLQGTLASIGTAFERS  847
+                 KPDE +V      +GK+ Y NGV +P  LK  +R+   +  I+ ++   L  + ++    
+Sbjct  71942957  KPDECWVSDVI*EYGKRLYFNGVPVPNFLKIFSRLTDSTGEIYSNIYSRLTCLSSSCLSE  71943136
+
+Query  848       ISETRHIFPCRITAAFHTFFSVRILQYHHLGFNKGFDLGQLTLGKPLDFGTISLALAVPQ  907
+                        +P  I         + +L    +                 D   +S    V  
+Sbjct  71943137  SQMDYTRWPSVIAGILVYVMEIFVLFPSQICS---------------DPHIVSALAVVGP  71943271
+
+Query  908       VLGGLSFLNP-EKCFYRNLGDPVTSGLFQLKTYLRMIEMDDLFLPLIAK--NPGNCTAID  964
+                 VLGGLS L       +R L DP+T   FQ         +  L +  + K   P   +A+ 
+Sbjct  71943272  VLGGLSSLATLPSVMFRGLADPLT---FQTAI---TTGIAPLCIHQVTKLTVPAQPSALA  71943433
+
+Query  965       FVLNPSGLNVPGSQDLTSFLRQIVRRTIT-LSAKNKLINTLFHASADFED-EMVCKWLLS  1022
+                    +P+ LN+   +     L+  +  +++ ++  ++++N +     D    E++   L  
+Sbjct  71943434  LCSDPTCLNIVPIRRPEGILKIWIEESLSEMTGSSRILNLM---KTDISSREVLAIDLFQ  71943604
+
+Query  1023      STPVMSRFAADIFSRTPSGKRLQILGYLEGTRTLLA-SKIINNNTETPVLDRLRKITLQR  1081
+                   P   R  + +F+++     L +L   + + T+++ S+ ++    T    R ++  +Q 
+Sbjct  71943605  MEPKYPRLMSYLFTKSNVAYGLSMLDKFQKSSTIVSLSQSMSMRCITEESRRFKEKLVQ-  71943781
+
+Query  1082      WSLWFSYLDHCDNILAEALTQITCTVDLAQILREYSWAHILEGRPLIGATLPCMIEQFKV  1141
+                  S+  +      NIL + LT   CT+D A  LR  +W     G  L G T+P + EQFK+
+Sbjct  71943782  -SILMTN-KQGLNIL-DYLTP--CTMDGASRLRAATW-----GCHLHGVTMPFIAEQFKL  71943931
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.136    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 8326409083070
+
+
+Query= NP_066250.1 membrane-associated protein [Zaire ebolavirus]
+
+Length=251
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.134    0.390    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 458075183405
+
+
+Query= NP_066249.1 minor nucleoprotein [Zaire ebolavirus]
+
+Length=288
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.130    0.389    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 599956737076
+
+
+Query= NP_066248.1 second secreted glycoprotein [Zaire ebolavirus]
+
+Length=297
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.137    0.426    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 636440592709
+
+
+Query= NP_066246.1 spike glycoprotein [Zaire ebolavirus]
+
+Length=676
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.133    0.410    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2136330187217
+
+
+Query= NP_066247.1 small secreted glycoprotein [Zaire ebolavirus]
+
+Length=364
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.136    0.419    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 895881029615
+
+
+Query= NP_066245.1 matrix protein [Zaire ebolavirus]
+
+Length=326
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.136    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 749945833655
+
+
+Query= NP_066244.1 polymerase complex protein [Zaire ebolavirus]
+
+Length=340
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold_m19_p_5_HLmyoMyo6 scaffold_m19_p_5_HLmyoMyo6_HLmyoMyo6       105     5e-22
+
+
+>scaffold_m19_p_5_HLmyoMyo6 scaffold_m19_p_5_HLmyoMyo6_HLmyoMyo6
+Length=111266764
+
+ Score = 105 bits (261),  Expect = 5e-22, Method: Compositional matrix adjust.
+ Identities = 78/279 (28%), Positives = 136/279 (49%), Gaps = 15/279 (5%)
+ Frame = -3
+
+Query  74        QTDPICNHSFEEVVQTLASLATVVQQQTIASESLEQRITSLENGL-------KPVYDMAK  126
+                 Q   + +H  + + + + SL + +++Q +  + L   +  ++  L       + +  M+ 
+Sbjct  68090858  QISQLADHC-DRIKEAMTSLTSCMEKQLVTMDHLLAALMEIKAQLPDQVFFSQSLLSMSS  68090682
+
+Query  127       TISSLNRVCAEMVAKYDLLVMttgratataaateaywaEHGQPPPGPSLY--EESAIRGK  184
+                  I+ L    +E++AK + L + +  AT+T  A  A    H +PPPGP L   E    R  
+Sbjct  68090681  KINQLVGDSSELLAKLNYLPVMSEPATSTLEAAGANTQGHRRPPPGPILATPERHGAR-P  68090505
+
+Query  185       IESRDETVP--QSVREAFNNLNSTTSLTEENFGKPDISAKDLRNIMYDHLPGFGTAFHQL  242
+                  ++    +P      EA   + +  ++T E   +  +   +   ++  HL G  TAFH+L
+Sbjct  68090504  TDTLTSDIPGYAEAAEAEKKVRAAQTVTGEGVSRLPLVPTEFVRVLTSHLTGPRTAFHEL  68090325
+
+Query  243       VQVICKLGKDSNSLDIIHAEFQASLAEGDSPQCALIQITKRVPIFQDAAPPVIHIRSRGD  302
+                 V  I  + +DS+ L +   +F   L +G S   A+I IT+R   F++   P   + S+  
+Sbjct  68090324  VSAIAVVSRDSHDLQVAMDQFNRELTDGSSAHAAIISITRRCEYFRNCEAPTTQVTSKSQ  68090145
+
+Query  303       IPRACQKSLRPVPPSPK-IDRGWVCVFQLQDGKTLGLKI  340
+                 IP+AC   LR VP  PK + RGWV ++   +G +LGLKI
+Sbjct  68090144  IPKACHGRLRDVPEGPKPLGRGWVYIYLTPEG-SLGLKI  68090031
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.132    0.388    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 802644636222
+
+
+  Database: Data/bat_db.fa
+    Posted date:  Dec 4, 2020  9:23 PM
+  Number of letters in database: 12,161,484,293
+  Number of sequences in database:  474
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40

@@ -1,0 +1,3000 @@
+TBLASTN 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Data/bat_db.fa
+           474 sequences; 12,161,484,293 total letters
+
+
+
+Query= QHA79181.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=132
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.133    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344434475
+
+
+Query= ANH10613.1 spike protein [Bat coronavirus]
+
+Length=1236
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.135    0.403    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4386163019282
+
+
+Query= ANH10612.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=117
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.133    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344612225
+
+
+Query= ANH10611.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=138
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.135    0.406    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344363375
+
+
+Query= ANH10610.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=136
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344387075
+
+
+Query= ANH10609.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=138
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344363375
+
+
+Query= ANH10608.1 ORF1 polyprotein, partial [Bat coronavirus]
+
+Length=74
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.133    0.407    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101345121775
+
+
+Query= ANH10607.1 spike protein, partial [Bat coronavirus]
+
+Length=71
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.129    0.384    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101345157325
+
+
+Query= QJF54342.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=125
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.135    0.408    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344517425
+
+
+Query= QJF54341.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=114
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.136    0.413    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344647775
+
+
+Query= QNC69734.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.135    0.407    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69733.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.133    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69732.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.135    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69731.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69730.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.134    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69729.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.135    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69728.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.135    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69727.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.135    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69726.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.133    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69725.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.135    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69724.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.136    0.403    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69723.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.135    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69722.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.133    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69721.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.135    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69720.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=122
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.136    0.403    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344552975
+
+
+Query= QNC69719.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.132    0.392    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69718.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.405    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69717.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.132    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69716.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.132    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69715.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69714.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69713.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.135    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69712.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69711.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69710.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.132    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69709.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.132    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69708.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.132    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69707.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.131    0.381    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69706.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=143
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.410    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344304125
+
+
+Query= QNC69705.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=144
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.407    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344292275
+
+
+Query= QNC69704.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.132    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69703.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.132    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69702.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.133    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69701.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.133    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69700.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.133    0.394    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69699.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.135    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69698.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QNC69697.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QHA79210.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=138
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.135    0.409    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344363375
+
+
+Query= QHA79209.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=136
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.134    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344387075
+
+
+Query= QHA79208.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=125
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.132    0.393    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344517425
+
+
+Query= QHA79207.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.132    0.396    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QHA79206.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=129
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.326    0.135    0.407    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344470025
+
+
+Query= QHA79205.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.325    0.134    0.405    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344410775
+
+
+Query= QHA79204.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=136
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344387075
+
+
+Query= QHA79203.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=139
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344351525
+
+
+Query= QHA79202.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.133    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344529275
+
+
+Query= QHA79201.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=130
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344458175
+
+
+Query= QHA79200.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=122
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.134    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344552975
+
+
+Query= QHA79199.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=138
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.133    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344363375
+
+
+Query= QHA79198.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=127
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.133    0.394    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344493725
+
+
+Query= QHA79197.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=139
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.134    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344351525
+
+
+Query= QHA79196.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.135    0.417    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 251333404022
+
+
+Query= QHA79195.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=199
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.133    0.415    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 263494697765
+
+
+Query= QHA79194.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=201
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.419    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 271602226927
+
+
+Query= QHA79193.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=201
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.419    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 271602226927
+
+
+Query= QHA79192.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=143
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.135    0.411    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344304125
+
+
+Query= QHA79191.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=138
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.133    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344363375
+
+
+Query= QHA79190.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=150
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344221175
+
+
+Query= QHA79189.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=138
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.136    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344363375
+
+
+Query= QHA79188.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=128
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.134    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344481875
+
+
+Query= QHA79187.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=136
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.134    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344387075
+
+
+Query= QHA79186.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=122
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.132    0.390    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344552975
+
+
+Query= QHA79185.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=139
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344351525
+
+
+Query= QHA79184.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=137
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.135    0.413    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344375225
+
+
+Query= QHA79183.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=92
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.133    0.408    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344908475
+
+
+Query= QHA79182.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=93
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.132    0.405    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344896625
+
+
+Query= QHA79180.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=135
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.133    0.409    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344398925
+
+
+Query= QHA79179.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=136
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.134    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344387075
+
+
+Query= QHA79178.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=126
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.133    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344505575
+
+
+Query= QHA79177.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=112
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.133    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344671475
+
+
+Query= QHA79176.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=118
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.132    0.394    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344600375
+
+
+Query= QHA79175.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=112
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.133    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344671475
+
+
+Query= QHA79174.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=107
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.394    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344730725
+
+
+Query= QHA79173.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=133
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344422625
+
+
+Query= QHA79172.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=112
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.132    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344671475
+
+
+Query= QHA79171.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=112
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.132    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344671475
+
+
+Query= QHA79170.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=113
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.132    0.396    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344659625
+
+
+Query= QHA79169.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.133    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344683325
+
+
+Query= QHA79168.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=105
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.134    0.392    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344754425
+
+
+Query= QHA79167.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=110
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.132    0.391    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344695175
+
+
+Query= QHA79166.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=103
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.135    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344778125
+
+
+Query= QHA79165.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=106
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.394    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344742575
+
+
+Query= QHA79164.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=107
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.136    0.408    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344730725
+
+
+Query= QHA79163.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=112
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.135    0.416    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344671475
+
+
+Query= QHA79162.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=103
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.134    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344778125
+
+
+Query= QHA79161.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=106
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.133    0.391    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344742575
+
+
+Query= QHA79160.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=140
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344339675
+
+
+Query= QOQ72507.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=133
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.137    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344422625
+
+
+Query= QOQ72506.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=133
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.137    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344422625
+
+
+Query= QOQ72505.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=133
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.137    0.416    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344422625
+
+
+Query= QOQ72504.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.134    0.403    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344410775
+
+
+Query= QOQ72503.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.134    0.409    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344410775
+
+
+Query= QOQ72502.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.325    0.134    0.411    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344410775
+
+
+Query= QOQ72501.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.413    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344410775
+
+
+Query= QOQ72500.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.411    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344410775
+
+
+Query= QOQ72499.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.134    0.409    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344410775
+
+
+Query= QOQ72498.1 nucleocapsid, partial [Bat coronavirus]
+
+Length=126
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.131    0.396    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344505575
+
+
+Query= QOQ72497.1 nucleocapsid, partial [Bat coronavirus]
+
+Length=126
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.131    0.396    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344505575
+
+
+Query= QOQ72496.1 nucleocapsid, partial [Bat coronavirus]
+
+Length=126
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.131    0.396    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344505575
+
+
+Query= QOQ72495.1 nucleocapsid, partial [Bat coronavirus]
+
+Length=126
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.131    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101344505575
+
+
+Query= ARI44818.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=927
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.137    0.426    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3141660937975
+
+
+Query= ARI44817.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=746
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.137    0.429    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2416039170212
+
+
+Query= ARI44816.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=286
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.134    0.408    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 591849213602
+
+
+Query= ARI44815.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=753
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.137    0.429    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2444415469191
+
+
+Query= ARI44814.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=263
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.133    0.405    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 502666514164
+
+
+Query= ARI44813.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=473
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.135    0.412    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1329633072376
+
+
+Query= ARI44812.1 nucleocapsid protein [Bat coronavirus]
+
+Length=421
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.131    0.395    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1122891475957
+
+
+Query= ARI44811.1 membrane protein [Bat coronavirus]
+
+Length=221
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.140    0.437    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 344569908805
+
+
+Query= ARI44810.1 envelope protein [Bat coronavirus]
+
+Length=76
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.135    0.406    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101345098075
+
+
+Query= ARI44809.1 spike glycoprotein [Bat coronavirus]
+
+Length=1241
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.135    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4406431794787
+
+
+Query= ARI44808.1 orf1ab polyprotein [Bat coronavirus]
+
+Length=7068
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold_m19_p_2_HLmyoMyo6 scaffold_m19_p_2_HLmyoMyo6_HLmyoMyo6       65.1    7e-07
+scaffold_m19_p_3_HLphyDis3 scaffold_m19_p_3_HLphyDis3_HLphyDis3       60.8    1e-05
+scaffold_m20_p_2_HLpipKuh2 scaffold_m20_p_2_HLpipKuh2_HLpipKuh2       60.8    1e-05
+
+
+>scaffold_m19_p_2_HLmyoMyo6 scaffold_m19_p_2_HLmyoMyo6_HLmyoMyo6
+Length=217756413
+
+ Score = 65.1 bits (157),  Expect = 7e-07, Method: Compositional matrix adjust.
+ Identities = 41/111 (37%), Positives = 57/111 (51%), Gaps = 12/111 (11%)
+ Frame = -1
+
+Query  1031       VIVNAANIHLKHGGGVAGALNKATNGAMQQESDDYIKRNGPLTVGGSCLLSGHNLA-KKC  1089
+                  ++VNAAN  L+HGGG+A AL KA    +Q+ESD YI  +G +  GG+ +     L  K  
+Sbjct  158986914  IVVNAANEELRHGGGLAQALVKAGGQEIQEESDWYISTHGKIQTGGTAVTGPGKLPCKHI  158986735
+
+Query  1090       MHVVGPNLNAGED-----------VQLLKAAYDNFNSQDVLLAPLLSAGIF  1129
+                  +H VGP   A E            V +L      F + + +  P LS+GIF
+Sbjct  158986734  IHAVGPRWVAWERGRCQADLENAMVNILNCVTHGFPNLETVAIPALSSGIF  158986582
+
+
+>scaffold_m19_p_3_HLphyDis3 scaffold_m19_p_3_HLphyDis3_HLphyDis3
+Length=214174399
+
+ Score = 60.8 bits (146),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 43/139 (31%), Positives = 69/139 (50%), Gaps = 18/139 (13%)
+ Frame = -3
+
+Query  1031       VIVNAANIHLKHGGGVAGALNKATNGAMQQESDDYIKRNGPLTVGGSCLLSGHNLA-KKC  1089
+                  V+VNAAN +L+H GG+A AL+KA    +Q + D  +K  G + VG + +     L  ++ 
+Sbjct  112439849  VVVNAANENLRHSGGLAAALSKAAGPQLQADCDQIVKEKGTIPVGSAIVSRAGKLPYRQV  112439670
+
+Query  1090       MHVVGPNLNA----GEDVQLLKAAYDNFNSQDVL-----LAPLLSAGIFGAKPLQSLKMC  1140
+                  +H +GP   +    G  +QL KA   +    + L       P +S+G+FG      +  C
+Sbjct  112439669  IHAIGPRWKSDDAQGCVLQLKKAVRQSLQLAEKLQYQSIAIPAISSGVFGF----PISQC  112439502
+
+Query  1141       VEVVRTQVYLAVNDRSLYD  1159
+                  VE     + LAV +   Y+
+Sbjct  112439501  VEA----IVLAVKETFQYN  112439457
+
+
+>scaffold_m20_p_2_HLpipKuh2 scaffold_m20_p_2_HLpipKuh2_HLpipKuh2
+Length=189234171
+
+ Score = 60.8 bits (146),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 42/137 (31%), Positives = 65/137 (47%), Gaps = 16/137 (12%)
+ Frame = +3
+
+Query  1031      VIVNAANIHLKHGGGVAGALNKATNGAMQQESDDYIKRNGPLTVGGSCLLSGHNLA-KKC  1089
+                 V+VNAAN  L+HGGG+A AL KA    +Q+ESD +I + G +  G   +     L  K  
+Sbjct  51463872  VVVNAANEELRHGGGLAQALVKAGGQQIQEESDMFISKYGKIPTGEVAITGPGKLPCKFI  51464051
+
+Query  1090      MHVVGPNLNAGEDVQ-----------LLKAAYDNFNSQDVLLAPLLSAGIFGAKPLQSLK  1138
+                 +H VGP     + V+           +L     +++S + +  P LS+GIF       L 
+Sbjct  51464052  IHAVGPRWEERDAVRCKADLQKAIRSILNCFTSDYSSPETVAIPALSSGIFRFP----LD  51464219
+
+Query  1139      MCVEVVRTQVYLAVNDR  1155
+                 +C  ++   + L    R
+Sbjct  51464220  LCTRIIVETIKLYFQTR  51464270
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.136    0.416    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 27974921428039
+
+
+Query= ARI44807.1 nucleocapsid protein [Bat coronavirus]
+
+Length=421
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.131    0.396    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1122891475957
+
+
+Query= ARI44806.1 membrane protein [Bat coronavirus]
+
+Length=221
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.140    0.439    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 344569908805
+
+
+Query= ARI44805.1 envelope protein [Bat coronavirus]
+
+Length=76
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.133    0.388    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101345098075
+
+
+Query= ARI44804.1 spike glycoprotein [Bat coronavirus]
+
+Length=1233
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.136    0.405    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4374001753979
+
+
+Query= ARI44803.1 orf1ab polyprotein [Bat coronavirus]
+
+Length=7073
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold_m19_p_2_HLmyoMyo6 scaffold_m19_p_2_HLmyoMyo6_HLmyoMyo6       66.6    3e-07
+scaffold_m19_p_3_HLphyDis3 scaffold_m19_p_3_HLphyDis3_HLphyDis3       62.0    6e-06
+scaffold_m20_p_2_HLpipKuh2 scaffold_m20_p_2_HLpipKuh2_HLpipKuh2       59.7    3e-05
+scaffold_m13_p_4_HLrouAeg4 scaffold_m13_p_4_HLrouAeg4_HLrouAeg4       58.2    1e-04
+
+
+>scaffold_m19_p_2_HLmyoMyo6 scaffold_m19_p_2_HLmyoMyo6_HLmyoMyo6
+Length=217756413
+
+ Score = 66.6 bits (161),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 41/111 (37%), Positives = 58/111 (52%), Gaps = 12/111 (11%)
+ Frame = -1
+
+Query  1034       VIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KKC  1092
+                  ++VNAAN  L+HGGG+A AL KA    +Q+ESD YI  +G +  GG+ +     L  K  
+Sbjct  158986914  IVVNAANEELRHGGGLAQALVKAGGQEIQEESDWYISTHGKIQTGGTAVTGPGKLPCKHI  158986735
+
+Query  1093       LHVVGPNLNAGED-----------IQLLKAAYENFNSQDTLLAPLLSAGIF  1132
+                  +H VGP   A E            + +L      F + +T+  P LS+GIF
+Sbjct  158986734  IHAVGPRWVAWERGRCQADLENAMVNILNCVTHGFPNLETVAIPALSSGIF  158986582
+
+
+>scaffold_m19_p_3_HLphyDis3 scaffold_m19_p_3_HLphyDis3_HLphyDis3
+Length=214174399
+
+ Score = 62.0 bits (149),  Expect = 6e-06, Method: Compositional matrix adjust.
+ Identities = 42/145 (29%), Positives = 73/145 (50%), Gaps = 10/145 (7%)
+ Frame = -3
+
+Query  1033       KVIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KK  1091
+                  +V+VNAAN +L+H GG+A AL+KA    +Q + D  +K  G + VG + +     L  ++
+Sbjct  112439852  EVVVNAANENLRHSGGLAAALSKAAGPQLQADCDQIVKEKGTIPVGSAIVSRAGKLPYRQ  112439673
+
+Query  1092       CLHVVGPNLNA----GEDIQLLKAAYENFNSQDTL-----LAPLLSAGIFGAKPLQSLQV  1142
+                   +H +GP   +    G  +QL KA  ++    + L       P +S+G+FG    Q ++ 
+Sbjct  112439672  VIHAIGPRWKSDDAQGCVLQLKKAVRQSLQLAEKLQYQSIAIPAISSGVFGFPISQCVEA  112439493
+
+Query  1143       CVQTVRTQVYIAVNDKALYEQVVMD  1167
+                   V  V+       + + L E  ++D
+Sbjct  112439492  IVLAVKETFQYNWDGRTLKEIYLVD  112439418
+
+
+>scaffold_m20_p_2_HLpipKuh2 scaffold_m20_p_2_HLpipKuh2_HLpipKuh2
+Length=189234171
+
+ Score = 59.7 bits (143),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 40/111 (36%), Positives = 58/111 (52%), Gaps = 12/111 (11%)
+ Frame = +3
+
+Query  1034      VIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KKC  1092
+                 V+VNAAN  L+HGGG+A AL KA    +Q+ESD +I   G +  G   +     L  K  
+Sbjct  51463872  VVVNAANEELRHGGGLAQALVKAGGQQIQEESDMFISKYGKIPTGEVAITGPGKLPCKFI  51464051
+
+Query  1093      LHVVGPN------LNAGEDIQ-----LLKAAYENFNSQDTLLAPLLSAGIF  1132
+                 +H VGP       +    D+Q     +L     +++S +T+  P LS+GIF
+Sbjct  51464052  IHAVGPRWEERDAVRCKADLQKAIRSILNCFTSDYSSPETVAIPALSSGIF  51464204
+
+
+>scaffold_m13_p_4_HLrouAeg4 scaffold_m13_p_4_HLrouAeg4_HLrouAeg4
+Length=160593437
+
+ Score = 58.2 bits (139),  Expect = 1e-04, Method: Compositional matrix adjust.
+ Identities = 43/126 (34%), Positives = 63/126 (50%), Gaps = 12/126 (10%)
+ Frame = +3
+
+Query  1035      IVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KKCL  1093
+                 +VNAAN  LKHGGG+A AL KA    +Q+ES  +I ++G +  G   +     L  K  +
+Sbjct  53603976  VVNAANEDLKHGGGLALALVKAGGQEIQEESTRFISIHGKVPTGEIAVTGAGKLPCKLII  53604155
+
+Query  1094      HVVGP---NLNAGEDIQLLKAAYENFNSQ--------DTLLAPLLSAGIFGAKPLQSLQV  1142
+                 H VGP    ++    I  L+ A +N            +T+  P LS+GIF        Q+
+Sbjct  53604156  HAVGPRWVEVDRERCIHKLQTAIKNILDYAIFYNMYLETVAIPALSSGIFNFPLNLCTQI  53604335
+
+Query  1143      CVQTVR  1148
+                  V+T+R
+Sbjct  53604336  IVETIR  53604353
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.136    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 27995190172734
+
+
+Query= ARI44802.1 nucleocapsid protein [Bat coronavirus]
+
+Length=421
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.131    0.394    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1122891475957
+
+
+Query= ARI44801.1 membrane protein [Bat coronavirus]
+
+Length=221
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.140    0.439    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 344569908805
+
+
+Query= ARI44800.1 envelope protein [Bat coronavirus]
+
+Length=76
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.133    0.388    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101345098075
+
+
+Query= ARI44799.1 spike glycoprotein [Bat coronavirus]
+
+Length=1233
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.136    0.405    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4374001753979
+
+
+Query= ARI44798.1 orf1ab polyprotein [Bat coronavirus]
+
+Length=7073
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold_m19_p_2_HLmyoMyo6 scaffold_m19_p_2_HLmyoMyo6_HLmyoMyo6       66.6    3e-07
+scaffold_m19_p_3_HLphyDis3 scaffold_m19_p_3_HLphyDis3_HLphyDis3       62.0    6e-06
+scaffold_m20_p_2_HLpipKuh2 scaffold_m20_p_2_HLpipKuh2_HLpipKuh2       59.7    3e-05
+scaffold_m13_p_4_HLrouAeg4 scaffold_m13_p_4_HLrouAeg4_HLrouAeg4       58.2    1e-04
+
+
+>scaffold_m19_p_2_HLmyoMyo6 scaffold_m19_p_2_HLmyoMyo6_HLmyoMyo6
+Length=217756413
+
+ Score = 66.6 bits (161),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 41/111 (37%), Positives = 58/111 (52%), Gaps = 12/111 (11%)
+ Frame = -1
+
+Query  1034       VIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KKC  1092
+                  ++VNAAN  L+HGGG+A AL KA    +Q+ESD YI  +G +  GG+ +     L  K  
+Sbjct  158986914  IVVNAANEELRHGGGLAQALVKAGGQEIQEESDWYISTHGKIQTGGTAVTGPGKLPCKHI  158986735
+
+Query  1093       LHVVGPNLNAGED-----------IQLLKAAYENFNSQDTLLAPLLSAGIF  1132
+                  +H VGP   A E            + +L      F + +T+  P LS+GIF
+Sbjct  158986734  IHAVGPRWVAWERGRCQADLENAMVNILNCVTHGFPNLETVAIPALSSGIF  158986582
+
+
+>scaffold_m19_p_3_HLphyDis3 scaffold_m19_p_3_HLphyDis3_HLphyDis3
+Length=214174399
+
+ Score = 62.0 bits (149),  Expect = 6e-06, Method: Compositional matrix adjust.
+ Identities = 42/145 (29%), Positives = 73/145 (50%), Gaps = 10/145 (7%)
+ Frame = -3
+
+Query  1033       KVIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KK  1091
+                  +V+VNAAN +L+H GG+A AL+KA    +Q + D  +K  G + VG + +     L  ++
+Sbjct  112439852  EVVVNAANENLRHSGGLAAALSKAAGPQLQADCDQIVKEKGTIPVGSAIVSRAGKLPYRQ  112439673
+
+Query  1092       CLHVVGPNLNA----GEDIQLLKAAYENFNSQDTL-----LAPLLSAGIFGAKPLQSLQV  1142
+                   +H +GP   +    G  +QL KA  ++    + L       P +S+G+FG    Q ++ 
+Sbjct  112439672  VIHAIGPRWKSDDAQGCVLQLKKAVRQSLQLAEKLQYQSIAIPAISSGVFGFPISQCVEA  112439493
+
+Query  1143       CVQTVRTQVYIAVNDKALYEQVVMD  1167
+                   V  V+       + + L E  ++D
+Sbjct  112439492  IVLAVKETFQYNWDGRTLKEIYLVD  112439418
+
+
+>scaffold_m20_p_2_HLpipKuh2 scaffold_m20_p_2_HLpipKuh2_HLpipKuh2
+Length=189234171
+
+ Score = 59.7 bits (143),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 40/111 (36%), Positives = 58/111 (52%), Gaps = 12/111 (11%)
+ Frame = +3
+
+Query  1034      VIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KKC  1092
+                 V+VNAAN  L+HGGG+A AL KA    +Q+ESD +I   G +  G   +     L  K  
+Sbjct  51463872  VVVNAANEELRHGGGLAQALVKAGGQQIQEESDMFISKYGKIPTGEVAITGPGKLPCKFI  51464051
+
+Query  1093      LHVVGPN------LNAGEDIQ-----LLKAAYENFNSQDTLLAPLLSAGIF  1132
+                 +H VGP       +    D+Q     +L     +++S +T+  P LS+GIF
+Sbjct  51464052  IHAVGPRWEERDAVRCKADLQKAIRSILNCFTSDYSSPETVAIPALSSGIF  51464204
+
+
+>scaffold_m13_p_4_HLrouAeg4 scaffold_m13_p_4_HLrouAeg4_HLrouAeg4
+Length=160593437
+
+ Score = 58.2 bits (139),  Expect = 1e-04, Method: Compositional matrix adjust.
+ Identities = 43/126 (34%), Positives = 63/126 (50%), Gaps = 12/126 (10%)
+ Frame = +3
+
+Query  1035      IVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLA-KKCL  1093
+                 +VNAAN  LKHGGG+A AL KA    +Q+ES  +I ++G +  G   +     L  K  +
+Sbjct  53603976  VVNAANEDLKHGGGLALALVKAGGQEIQEESTRFISIHGKVPTGEIAVTGAGKLPCKLII  53604155
+
+Query  1094      HVVGP---NLNAGEDIQLLKAAYENFNSQ--------DTLLAPLLSAGIFGAKPLQSLQV  1142
+                 H VGP    ++    I  L+ A +N            +T+  P LS+GIF        Q+
+Sbjct  53604156  HAVGPRWVEVDRERCIHKLQTAIKNILDYAIFYNMYLETVAIPALSSGIFNFPLNLCTQI  53604335
+
+Query  1143      CVQTVR  1148
+                  V+T+R
+Sbjct  53604336  IVETIR  53604353
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.136    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 27995190172734
+
+
+Query= ARI44797.1 nucleocapsid protein [Bat coronavirus]
+
+Length=433
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.128    0.376    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1171536594049
+
+
+Query= ARI44796.1 membrane protein [Bat coronavirus]
+
+Length=228
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.327    0.138    0.438    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 372946254236
+
+
+Query= ARI44795.1 envelope protein [Bat coronavirus]
+
+Length=76
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.329    0.144    0.468    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101345098075
+
+
+Query= ARI44794.1 spike glycoprotein [Bat coronavirus]
+
+Length=1395
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.136    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5026655737480
+
+
+Query= ARI44793.1 orf1ab polyprotein [Bat coronavirus]
+
+Length=6697
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold_m19_p_2_HLmyoMyo6 scaffold_m19_p_2_HLmyoMyo6_HLmyoMyo6       63.5    2e-06
+
+
+>scaffold_m19_p_2_HLmyoMyo6 scaffold_m19_p_2_HLmyoMyo6_HLmyoMyo6
+Length=217756413
+
+ Score = 63.5 bits (153),  Expect = 2e-06, Method: Compositional matrix adjust.
+ Identities = 68/256 (27%), Positives = 114/256 (45%), Gaps = 34/256 (13%)
+ Frame = -1
+
+Query  1210       DVNYEAPKPAVKMLSPFKIVDNVEFYKGEFSELAQLEFDFVVNAANENLSHGGGVAKAID  1269
+                  + N E+ +   K L+P      +  +KG+ +  A    D VVNAANE L HGGG+A+A+ 
+Sbjct  158987013  ESNSESRQVFRKKLTPRL---ELSVWKGDLTRHA---VDIVVNAANEELRHGGGLAQALV  158986852
+
+Query  1270       DYTKGQLQLLSKTYVKNNGRVRTGSGAM-----IKCKAFDVLNVVGPK----KGGKSWQK  1320
+                       ++Q  S  Y+  +G+++TG  A+     + CK   +++ VGP+    + G+  Q 
+Sbjct  158986851  KAGGQEIQEESDWYISTHGKIQTGGTAVTGPGKLPCK--HIIHAVGPRWVAWERGRC-QA  158986681
+
+Query  1321       LLRFAYETIFK--TEGVP-----LTPLLSCGIFGVALEDSLRTLIET-----HGDR---R  1365
+                   L  A   I    T G P       P LS GIF   L+   R ++ T      G R    
+Sbjct  158986680  DLENAMVNILNCVTHGFPNLETVAIPALSSGIFQFPLDLCTRIIVGTIRLYFQGKRPASH  158986501
+
+Query  1366       VKCFVYTSDEEQKVLAFFDNAETVV-DEPVVPYKSEGKCAFYDCDAAAVLKLKPDNIVIF  1424
+                  +K     S+E+  V+AF   +E ++    +    S+G     +    +   + P N V+ 
+Sbjct  158986500  LKEIHLVSNEDPTVVAFKTASEDILGSNELGSSVSQGAILPSNTMVVSQGAILPSNTVVV  158986321
+
+Query  1425       TDSKLTLVGAGLDFDK  1440
+                      L +V   ++  +
+Sbjct  158986320  NSMTLQIVQGHIELQQ  158986273
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.137    0.426    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 26470980571670
+
+
+Query= ARI44792.1 nucleocapsid protein [Bat coronavirus]
+
+Length=433
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.129    0.381    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1171536594049
+
+
+Query= ARI44791.1 membrane protein [Bat coronavirus]
+
+Length=228
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.327    0.138    0.440    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 372946254236
+
+
+Query= ARI44790.1 envelope protein [Bat coronavirus]
+
+Length=76
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.329    0.144    0.468    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 101345098075
+
+
+Query= ARI44789.1 spike glycoprotein [Bat coronavirus]
+
+Length=1391
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.135    0.413    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5010440718972
+
+
+Query= ARI44788.1 orf1ab polyprotein, partial [Bat coronavirus]
+
+Length=6396
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.137    0.426    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 25254858842990
+
+
+Query= AID16554.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=927
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.138    0.429    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3141660937975
+
+
+Query= AID16553.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=927
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.138    0.424    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3141660937975
+
+
+Query= AID16552.1 RNA-dependent RNA polymerase, partial [Bat coronavirus]
+
+Length=927
+
+
+***** No hits found *****
+
+
+

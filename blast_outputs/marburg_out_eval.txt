@@ -1,0 +1,306 @@
+TBLASTN 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Data/bat_db.fa
+           474 sequences; 12,161,484,293 total letters
+
+
+
+Query= YP_001531153.1 nucleoprotein [Marburg marburgvirus]
+
+Length=695
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold_m19_p_12_HLmyoMyo6 scaffold_m19_p_12_HLmyoMyo6_HLmyoMyo6     167     2e-40
+scaffold_m19_p_1_HLmyoMyo6 scaffold_m19_p_1_HLmyoMyo6_HLmyoMyo6       145     4e-33
+scaffold_m20_p_36_HLpipKuh2 scaffold_m20_p_36_HLpipKuh2_HLpipKuh2     57.8    7e-07
+
+
+>scaffold_m19_p_12_HLmyoMyo6 scaffold_m19_p_12_HLmyoMyo6_HLmyoMyo6
+Length=74216526
+
+ Score = 167 bits (424),  Expect = 2e-40, Method: Compositional matrix adjust.
+ Identities = 93/244 (38%), Positives = 140/244 (57%), Gaps = 11/244 (5%)
+ Frame = -2
+
+Query  124       SQRGRIGLFLSFCSLFLPKLVVGDRAS---IEKALRQVTVHQEQGIVTYPNHWLTTGHMK  180
+                 S RG     +   SLF P LV G  A    +EKA +Q+    +QGI     +W++   MK
+Sbjct  69334073  SPRGTCCSLVVHLSLFFPTLVTGKGACSQKVEKAFQQL---GDQGIKVIARNWMSPTVMK  69333903
+
+Query  181       VIFGILRSSFILKFVLIHQGVNLVTGHDAYDSIISNSVGQTRFSGLLIVKTVLEFILQKT  240
+                 +    L   FI+ F LI+  +    G DA D+II  +V Q+RF GLL+VK VL +I+   
+Sbjct  69333902  IACHTLHHCFIMGFCLIYHALYHRAGTDAVDAIIVGAVEQSRFLGLLMVKNVLRYIITNG  69333723
+
+Query  241       DSGVTLHPLVRTSKVKNEVASFKQALSNLARHGEYAPFARVLNLSGINNLEHGLYPQLSA  300
+                    + ++PL R  + + E+  F+  + ++ +HG Y P ARVL L  + ++EHG +P LSA
+Sbjct  69333722  GGEIKIYPLARDKRTRGEMTRFESCVRDIQKHGIYVPSARVLGLPRMTHIEHGQFPHLSA  69333543
+
+Query  301       IALGVATAHGSTLAGVNVGEQYQQLREAAHDAEVKLQRRHEHQEIQAIAEDD---EERKI  357
+                 + LGV++ + S LAGVN+  +YQ L+ AAH AE++LQ  H  +EI  + + D   EE ++
+Sbjct  69333542  LVLGVSSVYQSMLAGVNIDTRYQALKAAAHQAELELQSIHNRREI--VQDKDLTTEESEV  69333369
+
+Query  358       LEQF  361
+                 L  F
+Sbjct  69333368  LFAF  69333357
+
+
+>scaffold_m19_p_1_HLmyoMyo6 scaffold_m19_p_1_HLmyoMyo6_HLmyoMyo6
+Length=223369599
+
+ Score = 145 bits (366),  Expect = 4e-33, Method: Compositional matrix adjust.
+ Identities = 97/294 (33%), Positives = 153/294 (52%), Gaps = 19/294 (6%)
+ Frame = -2
+
+Query  131        LFLSFCSLFLPKLVVGDRAS---IEKALRQVTVHQEQGIVTYPNHWLTTGHMKVIFGILR  187
+                   F+++ SLFLPKLV G+ A    +EKA +Q+   + QGI       ++   M++ +  L 
+Sbjct  214409816  FFMAYLSLFLPKLVTGEGACAPKVEKAFQQL---ETQGINIISRSRISPMVMRIAYRTLG  214409646
+
+Query  188        SSFILKFVLIHQGVNLVTGHDAYDSIISNSVGQTRFSGLLIVKTVLEFILQKTDSGVTLH  247
+                    FI++F L++  +   +G+               F   L+ K VL +I+ K    +  H
+Sbjct  214409645  HCFIIRFSLVYHVLPSKSGY*CGRHGHGWCCRAILFFRPLMAKNVLTYIITKEGGAIKRH  214409466
+
+Query  248        PLVRTSKVKNEVASFKQALSNLARHGEYAPFARVLNLSGINNLEHGLYPQLSAIALGVAT  307
+                  P  R  + K E+A F+  + N+  HG YAPFARVL L G+  +EHG +P+L AIALGV+ 
+Sbjct  214409465  PPARDGQTKEEMARFESCVRNIQNHGIYAPFARVLGLPGVAQIEHGPFPRLPAIALGVSA  214409286
+
+Query  308        AHGSTLAGVNVGEQYQQLREAAHDAEVKLQRRHEHQEIQAIAEDD---EERKILEQFHLQ  364
+                   H ST AGVN   +YQ L+EAAH AE++ Q   + +EI  I + D   EER+++  F  +
+Sbjct  214409285  VHQSTPAGVNTDTRYQALKEAAHQAELE*QGILKRREI--IQDKDLSAEERELIITFKKR  214409112
+
+Query  365        KTEITHSQTLAVLSQKREKLARLAAEIENNIVEDQGFKQSQNRVSQSFLNDPTP  418
+                        +Q        R++ A+  +E+  +I++       QN  +     + TP
+Sbjct  214409111  SERTNQTQ--------RQREAKARSELLKDIMDRAAKLSPQNPTTAGTRREVTP  214408974
+
+
+ Score = 99.4 bits (246),  Expect(2) = 6e-33, Method: Compositional matrix adjust.
+ Identities = 48/92 (52%), Positives = 64/92 (70%), Gaps = 0/92 (0%)
+ Frame = -1
+
+Query  246       LHPLVRTSKVKNEVASFKQALSNLARHGEYAPFARVLNLSGINNLEHGLYPQLSAIALGV  305
+                 +HPL R  + + E+ SF   + NL +HG  APFARVL L G+  +EHG + +LSAIALGV
+Sbjct  60135492  IHPLARDKRTRGELDSFAYCVRNLQKHGINAPFARVLGLPGVTQMEHGPFHRLSAIALGV  60135313
+
+Query  306       ATAHGSTLAGVNVGEQYQQLREAAHDAEVKLQ  337
+                 ++ + STLAGVN+  Q+Q L+EAAH  E  LQ
+Sbjct  60135312  SSVYQSTLAGVNIDPQHQSLKEAAHPVEPGLQ  60135217
+
+
+ Score = 70.1 bits (170),  Expect(2) = 6e-33, Method: Compositional matrix adjust.
+ Identities = 58/182 (32%), Positives = 90/182 (49%), Gaps = 8/182 (4%)
+ Frame = -2
+
+Query  60        CVEHYYNSDKDKFNTSPIAKYLRDAGYEFDVIKNADATRFLDVIPNEPHYS-PLILALKT  118
+                 C  H    D +    SP  +YL   GYEF  +     T+ L  I     YS  L+  ++ 
+Sbjct  60136049  CYCHS-RGDLNLMVKSPFGQYLIADGYEFSTMPPDLHTQPLHRIM*AIGYSEALVQIIRD  60135873
+
+Query  119       LESTESQRGRIGLFLSFCSLFLPKLVVGDRAS---IEKALRQVTVHQEQGIVTYPNHWLT  175
+                 L +      R   F+++ SLFLPKLV  + A    +EKA RQ+   + +GI         
+Sbjct  60135872  LPAPNPVGERAASFMAYVSLFLPKLVTEESACSQKVEKAYRQL---ENRGINVISRERKA  60135702
+
+Query  176       TGHMKVIFGILRSSFILKFVLIHQGVNLVTGHDAYDSIISNSVGQTRFSGLLIVKTVLEF  235
+                    M++ +  L    I++F L+++ ++   G  A  +II+ +V Q+RFSGLL+VK VL  
+Sbjct  60135701  PVVMRMAYRTLGHCSIMRFSLVYRELHQRAGTGAVKTIIAEAVEQSRFSGLLMVKNVLT*  60135522
+
+Query  236       IL  237
+                 I+
+Sbjct  60135521  II  60135516
+
+
+>scaffold_m20_p_36_HLpipKuh2 scaffold_m20_p_36_HLpipKuh2_HLpipKuh2
+Length=5825443
+
+ Score = 57.8 bits (138),  Expect(2) = 7e-07, Method: Compositional matrix adjust.
+ Identities = 28/70 (40%), Positives = 41/70 (59%), Gaps = 4/70 (6%)
+ Frame = -1
+
+Query  244      VTLHPLVRTSKVKNEVASFKQALSNLARHGEYAPFARVLNLSGINNLEHGLYPQLSAIAL  303
+                + +HPL +  + + E+  F+  + N  +HG Y P ARVL LSG    E    P LSAIAL
+Sbjct  2713900  IKIHPLAQDKRTREEMTHFEYCIRNTQKHGSYMPSARVLGLSGATQNE----PSLSAIAL  2713733
+
+Query  304      GVATAHGSTL  313
+                GV++ + S +
+Sbjct  2713732  GVSSVYQSAV  2713703
+
+
+ Score = 23.1 bits (48),  Expect(2) = 7e-07, Method: Compositional matrix adjust.
+ Identities = 10/16 (63%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+ Frame = -3
+
+Query  212      SIISNSVGQTRFSGLL  227
+                +II  +V Q+RFSGLL
+Sbjct  2714030  TIIVGAVEQSRFSGLL  2713983
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.132    0.377    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2213351579166
+
+
+Query= YP_001531154.1 polymerase complex protein [Marburg marburgvirus]
+
+Length=329
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+scaffold_m19_p_5_HLmyoMyo6 scaffold_m19_p_5_HLmyoMyo6_HLmyoMyo6       77.8    6e-13
+
+
+>scaffold_m19_p_5_HLmyoMyo6 scaffold_m19_p_5_HLmyoMyo6_HLmyoMyo6
+Length=111266764
+
+ Score = 77.8 bits (190),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 64/266 (24%), Positives = 118/266 (44%), Gaps = 5/266 (2%)
+ Frame = -3
+
+Query  68        VKRTLADLLIPINRQISDIQSTLSEVTTRVHEIERQLHEITPVLKMGRTLEAISKGMSEM  127
+                 +K  +  L   + +Q+  +   L+ +     ++  Q+     +L M   +  +    SE+
+Sbjct  68090825  IKEAMTSLTSCMEKQLVTMDHLLAALMEIKAQLPDQVFFSQSLLSMSSKINQLVGDSSEL  68090646
+
+Query  128       LAKYDHLVISTGRTTAPAAAFDAYLNEHGVPPPQPAIFKDLGVAQQACSKGTMVKNATTD  187
+                 LAK ++L + +   T+   A  A    H  PPP P +        +     T       +
+Sbjct  68090645  LAKLNYLPVMSEPATSTLEAAGANTQGHRRPPPGPILATPERHGARPTDTLTSDIPGYAE  68090466
+
+Query  188       AADKMSKVLE---LSEETFSKPNLSAKDLALLLFTHLPGNNTPFHILAQVLSKIAYKSGK  244
+                 AA+   KV     ++ E  S+  L   +   +L +HL G  T FH L   ++ ++  S  
+Sbjct  68090465  AAEAEKKVRAAQTVTGEGVSRLPLVPTEFVRVLTSHLTGPRTAFHELVSAIAVVSRDSHD  68090286
+
+Query  245       SGAFLDAFHQILSEGENAQAALTRLSRTFDAFLGVVPPVIRVKNFQTVPRPCQKSLRAVP  304
+                     +D F++ L++G +A AA+  ++R  + F     P  +V +   +P+ C   LR VP
+Sbjct  68090285  LQVAMDQFNRELTDGSSAHAAIISITRRCEYFRNCEAPTTQVTSKSQIPKACHGRLRDVP  68090106
+
+Query  305       PNPT-IDKGWVCVYSSEQGETRALKI  329
+                   P  + +GWV +Y + +G +  LKI
+Sbjct  68090105  EGPKPLGRGWVYIYLTPEG-SLGLKI  68090031
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.132    0.383    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 762107117444
+
+
+Query= YP_001531155.1 matrix protein [Marburg marburgvirus]
+
+Length=303
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.402    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 660763163131
+
+
+Query= YP_001531156.1 glycoprotein [Marburg marburgvirus]
+
+Length=681
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.130    0.392    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2156598974572
+
+
+Query= YP_001531157.1 minor nucleoprotein [Marburg marburgvirus]
+
+Length=281
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.131    0.403    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 575634233962
+
+
+Query= YP_001531158.1 matrix protein [Marburg marburgvirus]
+
+Length=253
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.137    0.407    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 466182708775
+
+
+Query= YP_001531159.1 RNA-dependent RNA polymerase [Marburg marburgvirus]
+
+Length=2331
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.137    0.417    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 8804750931732
+
+
+  Database: Data/bat_db.fa
+    Posted date:  Dec 4, 2020  9:23 PM
+  Number of letters in database: 12,161,484,293
+  Number of sequences in database:  474
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 13
+Window for multiple hits: 40
